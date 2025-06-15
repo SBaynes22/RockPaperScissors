@@ -9,7 +9,7 @@ the following rules apply:
 
 #Details 
 Includes:
-2 UC Funckits 
+2 UC Funkits 
 2 mini USB-B cables 
 
 #Instructions on How to Play 
@@ -37,5 +37,5 @@ The comparison chaecker will run displaying "COMPARING".
 The winner will recieve a message saying "YOU WIN!", the loser will receive a message saying "YOU LOSE!", but if there is a draw, then both players receive a message saying "TIE!".
 The game is then finished. 
 
-By A.Grimwood and S.Baynes
+By S.Baynes
 18/10/2024
