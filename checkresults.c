@@ -1,6 +1,6 @@
 /*
     # File:   checkresults.c 
-    # Authors: A.Grimwood, S.Baynes
+    # Authors: S.Baynes
     # Date:   18/10/2024
     # Descr:  module for comparing player moves
     */
