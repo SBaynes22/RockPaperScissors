@@ -1,6 +1,6 @@
 /* 
 # File:   Messaging file
-# Authors: A.Grimwood, S.Baynes
+# Authors: S.Baynes
 # Date:   18/10/2024
 # Descr:  To send messages to UCFK4
 */
