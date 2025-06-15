@@ -1,5 +1,5 @@
 # File:   Makefile
-# Authors: A.Grimwood, S.Baynes
+# Authors: S.Baynes
 # Date:   18/10/2024
 # Descr:  Makefile for game
 
