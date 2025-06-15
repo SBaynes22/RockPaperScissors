@@ -1,6 +1,6 @@
     /*
     # File:   game.c 
-    # Authors: A.Grimwood, S.Baynes
+    # Authors: S.Baynes
     # Date:   18/10/2024
     # Descr:  file containing game "main" program
     */
